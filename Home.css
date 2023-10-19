@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.heading{
+    width: 30%;
+    text-align: start;
+    justify-content: start;
+    align-content: center;
+}
+
+.heading h1{
+    font-size: xx-large;
+}
+
+
+.search{
+    width: 50%;
+}
+
+.header-right{
+    width: max-content;
+}
